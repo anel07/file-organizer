@@ -22,4 +22,4 @@ This small utility organizes files inside a target folder into subfolders by fil
 python file_organizer.py --path "/path/to/your/folder" --dry-run
 
 # Actually organize files
-python file_organizer.py --path "/path/to/your/folder"
+python file_organizer.py --path "C:/Users/Anne/Downloads"
